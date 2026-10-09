@@ -1,0 +1,1 @@
+{"name": "TDS GA0", "on": ["push", "workflow_dispatch"], "jobs": {"build": {"runs-on": "ubuntu-latest", "steps": [{"name": "24f3001402@ds.study.iitm.ac.in", "run": "echo TDS GA0 workflow step"}]}}}
